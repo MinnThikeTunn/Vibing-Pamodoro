@@ -1,0 +1,5 @@
+{
+  "name": "Vibing Pomodoro",
+  "description": "A productivity timer featuring a structured 50-10 mode and a flow-state 'Vibing' mode that calculates rest dynamically.",
+  "requestFramePermissions": []
+}
